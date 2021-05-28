@@ -20,7 +20,7 @@ li a {
 /* Add a color to the active/current link */
 li a.active {
   background-color: #4CAF50;
-  color: white;
+  color: #000;
 }
 /* Change the color of links on hover */
 li a:hover:not(.active) {
