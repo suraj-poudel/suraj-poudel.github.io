@@ -98,3 +98,7 @@ h5, h6 {
      margin:0;
      padding:0;
 }
+h1 {
+      background-color:pink;
+      line-height:0.8;
+    }
