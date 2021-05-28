@@ -43,7 +43,9 @@ body {
 .column {
   float: left;
 }
-
+.column {
+  float: right;
+}
 .left {
   width: 60%;
 }
@@ -95,7 +97,9 @@ p {
 
 h2, h5 {
      margin:0;
+     padding:0;
 }
 h5, h6 {
      margin:0;
+     padding:0;
 }
