@@ -40,12 +40,7 @@ body {
 }
 
 /* two unequal columns */
-.column {
-  float: left;
-}
-.column {
-  float: right;
-}
+
 .left {
   width: 60%;
 }
